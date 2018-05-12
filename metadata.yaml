@@ -1,0 +1,33 @@
+_repo: The-Morning-Glory-Club_40899
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Scott, A. O. (Arthur O.)
+    alias: Scott, Arthur O.
+    gutenberg_agent_id: '25205'
+    url: http://www.gutenberg.org/2009/agents/25205
+covers:
+- cover_type: archival
+  image_path: 40899-h/images/cover_title.jpg
+creator:
+  author:
+    agent_name: Kyle, George A. (George Alexander)
+    birthdate: 1872
+    gutenberg_agent_id: '40888'
+    url: http://www.gutenberg.org/2009/agents/40888
+description: ''
+gutenberg_issued: '2012-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Women -- Societies and clubs -- Fiction'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+title: The Morning Glory Club
+url: http://www.gutenberg.org/ebooks/40899
