@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '40888'
     url: http://www.gutenberg.org/2009/agents/40888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40899#The-Morning-Glory-Club
 gutenberg_issued: '2012-09-30'
 gutenberg_type: Text
 identifiers:
